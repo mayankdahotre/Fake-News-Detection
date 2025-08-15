@@ -1,4 +1,4 @@
-<img width="696" height="25" alt="image" src="https://github.com/user-attachments/assets/fa634aa8-b70b-4095-b4f7-73bd83528e1f" /># 📰 Fake News Detection
+# 📰 Fake News Detection
 
 This project detects whether a news article is **Fake** or **Real** using **Natural Language Processing (NLP)** techniques.  
 It uses:
