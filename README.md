@@ -31,7 +31,9 @@ You can use:
 - [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)
 - [ISOT Fake News Dataset](https://www.uvic.ca/engineering/ece/isot/datasets/index.php)
 
-If you have `true.csv` and `fake.csv` files, merge them using the script below.
+If you have `True.csv` and `Fake.csv` files, merge them using the script below.
+
+Download True.csv and Fake.csv from https://www.kaggle.com/code/therealsampat/fake-news-detection/input
 
 ---
 
@@ -68,8 +70,6 @@ df.to_csv('dataset.csv', index=False)
 
 print(f"✅ dataset.csv created with {len(df)} records.")
 ```
-
-Download True.csv and Fake.csv from https://www.kaggle.com/code/therealsampat/fake-news-detection/input
 
 Run it:
 ```bash
