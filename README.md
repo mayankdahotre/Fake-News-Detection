@@ -69,6 +69,8 @@ df.to_csv('dataset.csv', index=False)
 print(f"✅ dataset.csv created with {len(df)} records.")
 ```
 
+Download True.csv and Fake.csv from https://www.kaggle.com/code/therealsampat/fake-news-detection/input
+
 Run it:
 ```bash
 python merge_csv.py
